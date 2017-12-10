@@ -1,3 +1,4 @@
-Git is a longjiangtao version control system.
-Git is free software.
-我觉得你真是一个美女
+This is the second time 
+I learn the git
+I have to try my best to learn DL
+and I will find a great job if I do so!!
